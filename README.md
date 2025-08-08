@@ -5,3 +5,13 @@ I am an Arch user, and I want to maintain a backup of my configuration files for
 ### How to install hyprland on your distro
 
 You can install Hyprland using a package manager or manually. The installation method may vary depending on your Linux distribution, as different distros have different package managers. For Debian-based systems, a stable package might not always be available. However, there are options for Ubuntu users as well. You can find more details and installation instructions in the official repository.[click here](https://github.com/JaKooLit/Debian-Hyprland) to visit the repository .
+I recomand you to read instructions from [Hyperland Wiki](https://wiki.hypr.land/Getting-Started/Installation/).
+
+####Arch
+```
+sudo pacman -S hyprland
+```
+if you use yay, installation from AUR
+```
+yay -S hyprland-git
+```
