@@ -22,12 +22,13 @@ yay -S ninja gcc cmake meson libxcb xcb-proto xcb-util xcb-util-keysyms libxfixe
 Once you have installed make sure you have already sddm and switched to sddm
 for more knowledge about sddm [click here](https://wiki.archlinux.org/title/SDDM)
 
-After installation you can just copy my entire directory and pest there but you must remember to make a backup of your previous hypr directory. If something wrong happend you can atleast restore your previous setting
+After installation, you can simply copy my entire directory and paste it into your system. However, make sure to create a backup of your existing Hypr directory beforehand. This way, if anything goes wrong, you can easily restore your previous settings.
+
 
 ### status bar
 
-At first you dont have anything like status bar on your desktop. You have to install waybar or polybar whatever you like. As for me, I love to use waybar and I copied from another person. You can also search for your self or you may copy from me. 
-But at first you need to install waybar or polybar
+By default, your desktop won’t have a status bar. You’ll need to install either Waybar or Polybar, depending on your preference. Personally, I prefer Waybar and use a configuration I adapted from someone else. You can either search for your own setup or simply copy mine. Just remember—the first step is installing Waybar or Polybar.
+
 
 #### waybar
 ```
